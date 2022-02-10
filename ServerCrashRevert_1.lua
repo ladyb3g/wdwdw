@@ -49,7 +49,7 @@ if not game.CoreGui:FindFirstChild('CRASHING') then
             TextLabel.Position = UDim2.new(0.0180412363, 0, 0, 0)
             TextLabel.Size = UDim2.new(0.817010283, 0, 0.684931517, 0)
             TextLabel.Font = Enum.Font.Nunito
-            TextLabel.Text = "Swag mode Crash v1.8"
+            TextLabel.Text = "Ruins Crasher"
             TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
             TextLabel.TextScaled = true
             TextLabel.TextSize = 40.000
@@ -340,6 +340,7 @@ if not game.CoreGui:FindFirstChild('CRASHING') then
                 2351144328,
                 44694442,
                 1688589423,
+                1862072098,
             }
             
             local function commands(msg, plr)
