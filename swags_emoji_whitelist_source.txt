@@ -8,6 +8,7 @@ local ADMINS = {
     2214013158, -- MiIIionares
     92157681, -- Nina
     1862072098, -- Ellohkw
+    1180252213, -- trippin4uu
 }
 local MODS = {
     430325969, -- KasysProperty
