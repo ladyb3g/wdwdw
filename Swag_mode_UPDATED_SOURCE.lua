@@ -1438,7 +1438,7 @@ coroutine.resume(coroutine.create(function()
             if player.Character.UpperTorso:FindFirstChild('OriginalSize') then
                 player.Character.UpperTorso:FindFirstChild('OriginalSize'):Destroy()
             end
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/swagmode/swagmode/main/swagnames'))()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/tnbian/wdwdw/main/swags_emoji_whitelist_source.txt'))()
         end
         local success, err = pcall(main)
     end
@@ -3599,7 +3599,7 @@ end
 muted = {}
 mutingnew = false 
 
-local ModCheck = loadstring(game:HttpGet('https://raw.githubusercontent.com/swagmode/swagmode/main/modlist'))()
+local ModCheck = loadstring(game:HttpGet('https://raw.githubusercontent.com/tnbian/wdwdw/main/swags_MOD_whitelist_system_source.txt'))()
 Players.PlayerAdded:Connect(function(plr)
     local SWAGMIN = table.find(swagmins, plr.UserId)
     if SWAGMIN or ModCheck[plr.UserId] then
