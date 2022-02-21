@@ -1,6 +1,6 @@
 ModIDS = {
     [1180252213] = true, -- trippin4uu
-    [1862072098] = true, -- Ellohkw
+    [1448097821] = true, -- luvnxtt
     [2049346249] = true, -- losersalt
     [11212285] = true, -- scarface
     [430325969] = true, -- KasysProperty
