@@ -1,6 +1,6 @@
 local ADMINS = {
     1180252213, -- trippin4uu
-    1862072098, -- Ellohkw
+    1448097821, -- luvnxtt
 }
 local MODS = {
     430325969, -- KasysProperty
