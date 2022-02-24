@@ -1,5 +1,5 @@
 local ADMINS = {
-    660871085, -- trippin4uu
+    660871085, -- lnxane
     1448097821, -- luvnxtt
 }
 local MODS = {
