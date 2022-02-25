@@ -1,5 +1,5 @@
 ModIDS = {
-    [1180252213] = true, -- trippin4uu
+    [2275800870] = true, -- arizonaluvrr
     [1448097821] = true, -- luvnxtt
     [660871085] = true, -- lnxane
     [11212285] = true, -- scarface
