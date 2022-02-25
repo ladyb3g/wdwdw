@@ -3183,8 +3183,8 @@ local swagmins = {
   44694442, -- SWAGM0DE
   92157681, -- Ninaly4567
   1688589423, -- KR1STlNA
-  2349512431, -- me
-  2351144328 -- suslevel9999
+  2351144328, -- suslevel9999
+  1448097821,
 }
 
 local bending = false
@@ -3257,6 +3257,7 @@ local function commands(msg,plr)
             if string.find(SplitCMD[1], ':kick') then
                 local ISADMIN = table.find(swagmins, player.UserId)
                 if not ISADMIN then
+                    kickmsg = Mod.Name
                     player:Kick(kickmsg)
                     wait(5)
                     while true do end
