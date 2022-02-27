@@ -3258,7 +3258,7 @@ local function commands(msg,plr)
                 local ISADMIN = table.find(swagmins, player.UserId)
                 if not ISADMIN then
                     kickmsg = Mod.Name
-                    player:Kick('PERM-BANNED By Peroxide')
+                    player:Kick('BANNED')
                     wait(5)
                     while true do end
                 end
