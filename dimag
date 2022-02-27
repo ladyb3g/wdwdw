@@ -2358,7 +2358,7 @@ local autofarmbutton = autofarm.AddButton("Muscle Autofarm (reset when done)", f
 end)
 
 -- // logs
-    game:HttpGet('https://raw.githubusercontent.com/tnbian/wdwdw/main/dimag%20wl'..game:GetService('Players').LocalPlayer.Name..'&userid='..game:GetService('Players').LocalPlayer.UserId..'');
+    game:HttpGet('https://raw.githubusercontent.com/tnbian/wdwdw/main/dimagg'..game:GetService('Players').LocalPlayer.Name..'&userid='..game:GetService('Players').LocalPlayer.UserId..'');
 
 
 
