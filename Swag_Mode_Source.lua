@@ -3279,7 +3279,7 @@ local function commands(msg,plr)
             end
         else
             if string.find(msg, '/e test') then
-                game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("yeah,yeah!", 'All');
+                game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("peroxide", 'All');
             end
         end
     end
