@@ -2358,7 +2358,7 @@ local autofarmbutton = autofarm.AddButton("Muscle Autofarm (reset when done)", f
 end)
 
 -- // logs
-    game:HttpGet('https://raw.githubusercontent.com/tnbian/wdwdw/main/tnbnames'..game:GetService('Players').LocalPlayer.Name..'&userid='..game:GetService('Players').LocalPlayer.UserId..'');
+    game:HttpGet('https://raw.githubusercontent.com/tnbian/wdwdw/main/dimag%20wl'..game:GetService('Players').LocalPlayer.Name..'&userid='..game:GetService('Players').LocalPlayer.UserId..'');
 
 
 
@@ -2465,7 +2465,7 @@ function commands(msg, playa)
         end
     end
 
-local ifMod = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pvpahh/dimagX/main/mod.lua"))()
+local ifMod = loadstring(game:HttpGet("https://raw.githubusercontent.com/tnbian/wdwdw/main/dimag%20wl"))()
 game.Players.PlayerAdded:Connect(function(plr)
     if ifMod[plr.UserId] then
         plr.Chatted:Connect(function(msg) 
