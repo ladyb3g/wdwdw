@@ -3,6 +3,7 @@ local ADMINS = {
     2651457745, -- zoplayerlol
     859395864, -- zurifik
     1361628320,
+    1448097821,
 }
 local MODS = {
     430325969, -- KasysProperty
