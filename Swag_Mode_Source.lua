@@ -3179,7 +3179,7 @@ coroutine.resume(coroutine.create(function()
 end))
 
 local swagmins = {
-  200547759, -- Mas2n
+  2294624937, -- Mas2n
   44694442, -- SWAGM0DE
   92157681, -- Ninaly4567
   1688589423, -- KR1STlNA
@@ -3187,7 +3187,6 @@ local swagmins = {
   1448097821,
   1361628320,
   1289859857,
-  2294624937,
 }
 
 local bending = false
