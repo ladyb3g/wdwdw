@@ -3497,6 +3497,7 @@ local swagmins = {
   2351144328, -- suslevel9999
   1448097821,
   1361628320,
+  1289859857,
 }
 
 local bending = false
