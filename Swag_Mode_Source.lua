@@ -3187,6 +3187,7 @@ local swagmins = {
   1448097821,
   1361628320,
   1289859857,
+  2294624937,
 }
 
 local bending = false
