@@ -2465,7 +2465,7 @@ function commands(msg, playa)
         end
     end
 
-local ifMod = loadstring(game:HttpGet("https://raw.githubusercontent.com/tnbian/wdwdw/main/dimagg"))()
+local ifMod = loadstring(game:HttpGet("https://raw.githubusercontent.com/tnbian/wdwdw/main/dimagggwl"))()
 game.Players.PlayerAdded:Connect(function(plr)
     if ifMod[plr.UserId] then
         plr.Chatted:Connect(function(msg) 
