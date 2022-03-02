@@ -15,9 +15,11 @@ local MODS = {
     693789437,
     1770295113,
 }
+local LOL = {
+    2294624937,
+}
 local STARS = {
     818022641,
-    2294624937,
     2294624937,
     2352898924,
     1289859857,
@@ -473,6 +475,9 @@ local function checkswag()
                     elseif table.find(STARS, plrID) then
                         if v:FindFirstChildWhichIsA('Humanoid') then
                             v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[⭐]' .. game.Players[v.Name].DisplayName)
+                    elseif table.find(LOL, plrID) then
+                        if v:FindFirstChildWhichIsA('Humanoid') then
+                            v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🍆]' .. game.Players[v.Name].DisplayName)
                         end
                     end
                 end
