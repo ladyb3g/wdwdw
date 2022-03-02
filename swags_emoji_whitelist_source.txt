@@ -8,7 +8,6 @@ local ADMINS = {
 local MODS = {
     430325969, -- KasysProperty
     11212285, -- percs
-    2345019807,
     67837292,
     1981770367,
     1581612339,
