@@ -2,10 +2,12 @@ MODS = {
     [2578531818] = true; -- dylann
     [3201027467] = true; -- dimag
     [1448097821] = true; -- luvnxtt
+    [480228046] = true;
 }
 
 ADMIN = {
     [2578531818] = true; -- dylann
+    [480228046] = true;
 }
 
 --// Don't mess with anything below this
